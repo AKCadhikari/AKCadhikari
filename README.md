@@ -4,7 +4,7 @@ I'm a dedicated and passionate student, currently enrolled at Victoria Universit
 
 - 🔭 I'm currently learning more about **Cyber Security and Ethical Hacking**.
 - 🌱 All of my projects are available at [My GitHub Repositories](https://github.com/AKCadhikari).
-- 🎓 Certified by **Cisco Networking Academy** for **Introduction to Cybersecurity**.
+- 🎓 Certified by **Cisco Networking Academy** for **Introduction to Cybersecurity** And **HP Life** for **Introduction to Cyber Security Awareness**.
 - 📫 How to reach me: **aakchandupa@gmail.com**.
 
 ### Connect with me:
